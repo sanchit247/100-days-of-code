@@ -9,6 +9,7 @@
 
 **Request:** I request you all to poke me and make me accountable if I fail to update on a single day.
 
-### **Link to my Facebook :** [Fb](https://www.facebook.com/chetan.vashistth)
-### **Link to my Twitter :** [Twitter](https://twitter.com/chetanhere)
-### **Link to my LinkedIn :** [LinkedIn](https://www.linkedin.com/in/chetanvashistth/)
+
+### **Link to my Facebook :** [Fb](https://www.facebook.com/anushree1997)
+### **Link to my Twitter :** [Twitter](https://twitter.com/ShreeAnu35)
+### **Link to my LinkedIn :** [LinkedIn](https://www.linkedin.com/in/anushree1997)
