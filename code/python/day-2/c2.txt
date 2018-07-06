@@ -8,3 +8,4 @@ For Python coders, here is the day-2 code ideas.
 # Medium level
 
 3. Find all the factors of a given number, like 25 (1, 5, 25). 40(1, 2, 4, 5, 8, 10, 20, 40)
+1
