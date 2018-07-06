@@ -2,5 +2,6 @@ For the day zero of Python folks, here are two challenges.
 
 // Beginner Level
 1. Print Hello World
+print("hello world")
 2. Print the table of 1 to 10 column-wise.
 3. Write a program of simple calculator with sum, mul, sub, and div functions.
