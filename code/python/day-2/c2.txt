@@ -3,9 +3,20 @@ For Python coders, here is the day-2 code ideas.
 # Beginner level
 
 1. Cover celsius to Fahrenheit.
+x = float(input("enter the temperature in celius"))
+x  = x*1.8 + 32
+print (x)
 2. Reverse a string without using string function.
-
+x = "hello"
+y=""
+for i in range(len(x),0,-1):
+    y = y + x[i-1]
+print(y)
 # Medium level
 
 3. Find all the factors of a given number, like 25 (1, 5, 25). 40(1, 2, 4, 5, 8, 10, 20, 40)
-1
+x = int(input("input the number"))
+
+for i in range(1,x+1):
+    if(x%i==0):
+        print(i,'\t',end="")
