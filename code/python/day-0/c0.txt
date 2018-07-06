@@ -4,5 +4,7 @@ For the day zero of Python folks, here are two challenges.
 1. Print Hello World
 print("hello world")
 2. Print the table of 1 to 10 column-wise.
-
+x =int(input("enter the number"))
+for i in range (1,11):
+    print (x*i ,'\t',end="")
 3. Write a program of simple calculator with sum, mul, sub, and div functions.
