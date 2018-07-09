@@ -1,4 +1,29 @@
 # Day 5 program idea for Python developers
 
 1. Write a program to calculate compound interest.
+
+p = float(input("enter the ammount\n"))
+r = float(input("enter the rate of interest\n"))
+t = float(input("enter the time period in years\n"))
+ci = (1+r/100)**t
+ci = ci-1
+ci = p*ci
+print("compound interest is :" ,ci)
+
+
 2. Write a program to return Matrix Transpose.
+
+a =[[1,2,3],[4,5,6],[7,8,9]]
+
+b =[[0,0,0],[0,0,0],[0,0,0]]
+
+for i in range(0,3):
+    for j in range(0,3):
+        b[i][j]=a[j][i]
+print("mattrix is : \n")
+for i in range(len(a)):
+    print(a[i])
+
+print("transpose of matrix is :")
+for i in range(len(a)):
+    print(b[i])
